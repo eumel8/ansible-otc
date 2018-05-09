@@ -1,6 +1,7 @@
 Ansible for Open Telekom Cloud
 ==============================
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/936555d6c39640a29bdaa4864c994ca0)](https://app.codacy.com/app/eumel/ansible-otc?utm_source=github.com&utm_medium=referral&utm_content=eumel8/ansible-otc&utm_campaign=badger)
 [![Documentation Status](https://readthedocs.org/projects/ansible-otc/badge/?version=latest)](http://ansible-otc.readthedocs.io/en/dev/?badge=latest)
 [![Build Status](https://travis-ci.org/eumel8/ansible-otc.svg?branch=dev)](https://travis-ci.org/eumel8/ansible-otc)
 
